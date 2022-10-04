@@ -1,0 +1,6 @@
+framework module Pods_Daaily_qoutes_app {
+  umbrella header "Pods-Daaily qoutes app-umbrella.h"
+
+  export *
+  module * { export * }
+}
